@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaan GÜMELE</h1>
-<h3 align="center">Data Scientist, Machine Learning Engineering, Deep Learning</h3>
+<h3 align="center">Data Scientist, Machine Learning, Deep Learning</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@gumelekaan](https://medium.com/@gumelekaan)
 
